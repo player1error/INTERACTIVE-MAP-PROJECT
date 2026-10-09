@@ -24,7 +24,7 @@ function showCities(cities){
         const marker = L.marker([city.lat , city.long]).addTo(map);
 
         marker.bindPopup(`
-            <h2>${city.name}</h2>
+            <h1>${city.name}</h1>
             <p>Country: ${city.country}</p>
             <p>Population: ${city["Population:"] ?? "Unknown"}</p>
             <p>Language: ${city["Language:"]}</p>
