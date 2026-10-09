@@ -1,39 +1,49 @@
-# What is the Interactive Map Project?
+# Interactive Map Project
 
-> The Interactive Map Project displays cities from around the world on an interactive map. Click a marker to view information about the city.
+> An interactive world map that displays information about cities from around the world.
 
-## Repository description
+## What is the Interactive Map Project?
 
-This project is an interactive world map built with Leaflet and OpenStreetMap. City data is loaded from a JSON file and displayed using markers and popups.
+The Interactive Map Project is a web application built with Leaflet and OpenStreetMap. It loads city data from a JSON file and places a marker for every city on the map.
+
+Click a marker to view information about the selected city, including its country, population, language, currency, famous landmark, what it is known for, and whether it is a capital city.
+
+## Features
+
+- Explore cities on an interactive world map
+- Zoom and move around the map
+- View city information by clicking a marker
+- Load city data from a JSON file
+- Display `Unknown` when certain information is unavailable
 
 ## Files and folders
 
-- `city.json` - contains the city names, coordinates, countries, populations, languages, currencies, landmarks, and other information
-- `color.css` - contains the styling for the page and map
 - `index.html` - contains the structure of the webpage and loads Leaflet
-- `app.js` - creates the map, loads the city data, and displays the markers and popups
+- `color.css` - contains the styling for the page and map
+- `app.js` - creates the map, loads the city data, and adds the markers and popups
+- `city.json` - contains the coordinates and information for all cities
 - `README.md` - contains information about the project
-
-## How to run the project
-
-Because the city data is loaded with `fetch()`, run the project through a local web server instead of opening `index.html` directly.
-
-For example, use the Live Server extension in Visual Studio Code and open `index.html` with Live Server.
 
 ## Technologies used
 
 - HTML
 - CSS
 - JavaScript
-- Leaflet
-- OpenStreetMap
 - JSON
+- [Leaflet](https://leafletjs.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
 
-## TODO
+## How to run the project
 
-- Improve the layout and styling
-- Display selected city information in the information card
+The project must be opened through a local web server because JavaScript loads `city.json` with `fetch()`.
 
-## Authors
+1. Download or clone the repository.
+2. Open the project folder in Visual Studio Code.
+3. Install the **Live Server** extension if it is not installed yet.
+4. Right-click `index.html` and select **Open with Live Server**.
+5. Click a marker on the map to view information about a city.
 
-Just me
+## Author
+
+[player1error](https://github.com/player1error)
+
