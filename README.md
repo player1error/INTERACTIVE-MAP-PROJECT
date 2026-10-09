@@ -24,14 +24,6 @@ Click a marker to view information about the selected city, including its countr
 - `city.json` - contains the coordinates and information for all cities
 - `README.md` - contains information about the project
 
-## Technologies used
-
-- HTML
-- CSS
-- JavaScript
-- JSON
-- [Leaflet](https://leafletjs.com/)
-- [OpenStreetMap](https://www.openstreetmap.org/)
 
 ## How to run the project
 
