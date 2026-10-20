@@ -6,3 +6,11 @@
 body{
     margin: 0;
 }
+
+#card-info{
+    align-items: right;
+    background-color: rgb(42, 136, 243);
+    width: 100vh;
+    color: whitesmoke;
+
+}

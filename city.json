@@ -9,7 +9,13 @@
         "Currency:": "Afghan afghani (AFN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Afghanistan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3C0BEB",
+            "fillColor": "#3C0BEB",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tirana",
@@ -21,7 +27,13 @@
         "Currency:": "Albanian lek (ALL)",
         "Famous landmark:": null,
         "Known for:": "Capital of Albania",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8E8117",
+            "fillColor": "#8E8117",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Algiers",
@@ -33,7 +45,13 @@
         "Currency:": "Algerian dinar (DZD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Algeria",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9B4EC6",
+            "fillColor": "#9B4EC6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Andorra la Vella",
@@ -45,7 +63,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Andorra",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8BC587",
+            "fillColor": "#8BC587",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Luanda",
@@ -57,7 +81,13 @@
         "Currency:": "Angolan kwanza (AOA)",
         "Famous landmark:": null,
         "Known for:": "Capital of Angola",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#46466B",
+            "fillColor": "#46466B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Saint John's",
@@ -69,7 +99,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Antigua and Barbuda",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#31A169",
+            "fillColor": "#31A169",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Buenos Aires",
@@ -81,7 +117,13 @@
         "Currency:": "Argentine peso (ARS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Argentina",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7A75CD",
+            "fillColor": "#7A75CD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Yerevan",
@@ -93,7 +135,13 @@
         "Currency:": "Armenian dram (AMD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Armenia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7E3D65",
+            "fillColor": "#7E3D65",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Canberra",
@@ -105,7 +153,13 @@
         "Currency:": "Australian dollar (AUD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Australia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#FB5F63",
+            "fillColor": "#FB5F63",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Vienna",
@@ -117,7 +171,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Austria",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7644C7",
+            "fillColor": "#7644C7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Baku",
@@ -129,7 +189,13 @@
         "Currency:": "Azerbaijani manat (AZN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Azerbaijan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8A8AC9",
+            "fillColor": "#8A8AC9",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Nassau",
@@ -141,7 +207,13 @@
         "Currency:": "Bahamian dollar (BSD), United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bahamas",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#AE5BC7",
+            "fillColor": "#AE5BC7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Manama",
@@ -153,7 +225,13 @@
         "Currency:": "Bahraini dinar (BHD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bahrain",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A3818F",
+            "fillColor": "#A3818F",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dhaka",
@@ -165,7 +243,13 @@
         "Currency:": "Bangladeshi taka (BDT)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bangladesh",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A4733A",
+            "fillColor": "#A4733A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bridgetown",
@@ -177,7 +261,13 @@
         "Currency:": "Barbadian dollar (BBD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Barbados",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#EA8D2B",
+            "fillColor": "#EA8D2B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Minsk",
@@ -189,7 +279,13 @@
         "Currency:": "Belarusian ruble (BYN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Belarus",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#550286",
+            "fillColor": "#550286",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Brussels",
@@ -201,7 +297,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Belgium",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6133D0",
+            "fillColor": "#6133D0",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Belmopan",
@@ -213,7 +315,13 @@
         "Currency:": "Belize dollar (BZD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Belize",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7B8437",
+            "fillColor": "#7B8437",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Porto-Novo",
@@ -225,7 +333,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Benin",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#10174C",
+            "fillColor": "#10174C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Thimphu",
@@ -237,7 +351,13 @@
         "Currency:": "Bhutanese ngultrum (BTN), Indian rupee (INR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bhutan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C8C3DA",
+            "fillColor": "#C8C3DA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sucre",
@@ -249,7 +369,13 @@
         "Currency:": "Bolivian boliviano (BOB)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bolivia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#161AD4",
+            "fillColor": "#161AD4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "La Paz",
@@ -261,7 +387,13 @@
         "Currency:": "Bolivian boliviano (BOB)",
         "Famous landmark:": null,
         "Known for:": "Seat of government of Bolivia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9B835F",
+            "fillColor": "#9B835F",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sarajevo",
@@ -273,7 +405,13 @@
         "Currency:": "Bosnia and Herzegovina convertible mark (BAM)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bosnia and Herzegovina",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E59348",
+            "fillColor": "#E59348",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Gaborone",
@@ -285,7 +423,13 @@
         "Currency:": "Botswana pula (BWP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Botswana",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A0E04C",
+            "fillColor": "#A0E04C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Brasília",
@@ -297,7 +441,13 @@
         "Currency:": "Brazilian real (BRL)",
         "Famous landmark:": null,
         "Known for:": "Capital of Brazil",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#589D2B",
+            "fillColor": "#589D2B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bandar Seri Begawan",
@@ -309,7 +459,13 @@
         "Currency:": "Brunei dollar (BND), Singapore dollar (SGD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Brunei",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#26E42C",
+            "fillColor": "#26E42C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sofia",
@@ -321,7 +477,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Bulgaria",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BD79E6",
+            "fillColor": "#BD79E6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ouagadougou",
@@ -333,7 +495,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Burkina Faso",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DA9701",
+            "fillColor": "#DA9701",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Gitega",
@@ -345,7 +513,13 @@
         "Currency:": "Burundian franc (BIF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Burundi",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9EDAA9",
+            "fillColor": "#9EDAA9",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Phnom Penh",
@@ -357,7 +531,13 @@
         "Currency:": "Cambodian riel (KHR), United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Cambodia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F9220A",
+            "fillColor": "#F9220A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Yaoundé",
@@ -369,7 +549,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Cameroon",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#604D35",
+            "fillColor": "#604D35",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ottawa",
@@ -381,7 +567,13 @@
         "Currency:": "Canadian dollar (CAD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Canada",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BF1C24",
+            "fillColor": "#BF1C24",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Praia",
@@ -393,7 +585,13 @@
         "Currency:": "Cape Verdean escudo (CVE)",
         "Famous landmark:": null,
         "Known for:": "Capital of Cape Verde",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#FADF1C",
+            "fillColor": "#FADF1C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bangui",
@@ -405,7 +603,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Central African Republic",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#80045C",
+            "fillColor": "#80045C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "N'Djamena",
@@ -417,7 +621,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Chad",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3BBC62",
+            "fillColor": "#3BBC62",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Santiago",
@@ -429,7 +639,13 @@
         "Currency:": "Chilean peso (CLP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Chile",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E4F2E6",
+            "fillColor": "#E4F2E6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Beijing",
@@ -441,7 +657,13 @@
         "Currency:": "Chinese yuan (CNY)",
         "Famous landmark:": "Forbidden City",
         "Known for:": "Imperial palaces, historic temples, and Peking duck",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#99260C",
+            "fillColor": "#99260C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bogotá",
@@ -453,7 +675,13 @@
         "Currency:": "Colombian peso (COP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Colombia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7C8B03",
+            "fillColor": "#7C8B03",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Moroni",
@@ -465,7 +693,13 @@
         "Currency:": "Comorian franc (KMF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Comoros",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#4966D1",
+            "fillColor": "#4966D1",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Brazzaville",
@@ -477,7 +711,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Congo",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6B1A39",
+            "fillColor": "#6B1A39",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "San José",
@@ -489,7 +729,13 @@
         "Currency:": "Costa Rican colón (CRC)",
         "Famous landmark:": null,
         "Known for:": "Capital of Costa Rica",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#ED77F5",
+            "fillColor": "#ED77F5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Zagreb",
@@ -501,7 +747,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Croatia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B50F88",
+            "fillColor": "#B50F88",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Havana",
@@ -513,7 +765,13 @@
         "Currency:": "Cuban convertible peso (CUC), Cuban peso (CUP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Cuba",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#AD9BE1",
+            "fillColor": "#AD9BE1",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Nicosia",
@@ -525,7 +783,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Cyprus",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3CD298",
+            "fillColor": "#3CD298",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Prague",
@@ -537,7 +801,13 @@
         "Currency:": "Czech koruna (CZK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Czechia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#099077",
+            "fillColor": "#099077",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Copenhagen",
@@ -549,7 +819,13 @@
         "Currency:": "Danish krone (DKK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Denmark",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9A377B",
+            "fillColor": "#9A377B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Djibouti",
@@ -561,7 +837,13 @@
         "Currency:": "Djiboutian franc (DJF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Djibouti",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9F22E3",
+            "fillColor": "#9F22E3",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Roseau",
@@ -573,7 +855,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Dominica",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C8630C",
+            "fillColor": "#C8630C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Santo Domingo",
@@ -585,7 +873,13 @@
         "Currency:": "Dominican peso (DOP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Dominican Republic",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#AC0DE2",
+            "fillColor": "#AC0DE2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kinshasa",
@@ -597,7 +891,13 @@
         "Currency:": "Congolese franc (CDF)",
         "Famous landmark:": null,
         "Known for:": "Capital of DR Congo",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DB8DBE",
+            "fillColor": "#DB8DBE",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Quito",
@@ -609,7 +909,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Ecuador",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#AAB748",
+            "fillColor": "#AAB748",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Cairo",
@@ -621,7 +927,13 @@
         "Currency:": "Egyptian pound (EGP)",
         "Famous landmark:": "Cairo Citadel",
         "Known for:": "Ancient Egyptian history, busy markets, and the Nile River",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#263261",
+            "fillColor": "#263261",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "San Salvador",
@@ -633,7 +945,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of El Salvador",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#48023B",
+            "fillColor": "#48023B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Malabo",
@@ -645,7 +963,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Equatorial Guinea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E055D9",
+            "fillColor": "#E055D9",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Asmara",
@@ -657,7 +981,13 @@
         "Currency:": "Eritrean nakfa (ERN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Eritrea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#71C1DA",
+            "fillColor": "#71C1DA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tallinn",
@@ -669,7 +999,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Estonia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#378E06",
+            "fillColor": "#378E06",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lobamba",
@@ -681,7 +1017,13 @@
         "Currency:": "Swazi lilangeni (SZL), South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Eswatini",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#535935",
+            "fillColor": "#535935",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Mbabane",
@@ -693,7 +1035,13 @@
         "Currency:": "Swazi lilangeni (SZL), South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Eswatini",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6E0327",
+            "fillColor": "#6E0327",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Addis Ababa",
@@ -705,7 +1053,13 @@
         "Currency:": "Ethiopian birr (ETB)",
         "Famous landmark:": null,
         "Known for:": "Capital of Ethiopia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6EBCA5",
+            "fillColor": "#6EBCA5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Suva",
@@ -717,7 +1071,13 @@
         "Currency:": "Fijian dollar (FJD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Fiji",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3F32E8",
+            "fillColor": "#3F32E8",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Helsinki",
@@ -729,7 +1089,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Finland",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A696A2",
+            "fillColor": "#A696A2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Paris",
@@ -741,7 +1107,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Eiffel Tower",
         "Known for:": "Art, fashion, cafes, and French cuisine",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#D15ACE",
+            "fillColor": "#D15ACE",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Libreville",
@@ -753,7 +1125,13 @@
         "Currency:": "Central African CFA franc (XAF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Gabon",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BB9B62",
+            "fillColor": "#BB9B62",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Banjul",
@@ -765,7 +1143,13 @@
         "Currency:": "dalasi (GMD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Gambia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#506E74",
+            "fillColor": "#506E74",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tbilisi",
@@ -777,7 +1161,13 @@
         "Currency:": "lari (GEL)",
         "Famous landmark:": null,
         "Known for:": "Capital of Georgia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#405525",
+            "fillColor": "#405525",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Berlin",
@@ -789,7 +1179,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Brandenburg Gate",
         "Known for:": "History, street art, museums, and electronic music",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C843DF",
+            "fillColor": "#C843DF",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Accra",
@@ -801,7 +1197,13 @@
         "Currency:": "Ghanaian cedi (GHS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Ghana",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3B48D7",
+            "fillColor": "#3B48D7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Athens",
@@ -813,7 +1215,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Greece",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#FBB994",
+            "fillColor": "#FBB994",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "St. George's",
@@ -825,7 +1233,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Grenada",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#5A48A7",
+            "fillColor": "#5A48A7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Guatemala City",
@@ -837,7 +1251,13 @@
         "Currency:": "Guatemalan quetzal (GTQ)",
         "Famous landmark:": null,
         "Known for:": "Capital of Guatemala",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#109103",
+            "fillColor": "#109103",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Conakry",
@@ -849,7 +1269,13 @@
         "Currency:": "Guinean franc (GNF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Guinea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#2AA3AD",
+            "fillColor": "#2AA3AD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bissau",
@@ -861,7 +1287,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Guinea-Bissau",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C21D84",
+            "fillColor": "#C21D84",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Georgetown",
@@ -873,7 +1305,13 @@
         "Currency:": "Guyanese dollar (GYD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Guyana",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9EFDCA",
+            "fillColor": "#9EFDCA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Port-au-Prince",
@@ -885,7 +1323,13 @@
         "Currency:": "Haitian gourde (HTG)",
         "Famous landmark:": null,
         "Known for:": "Capital of Haiti",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B02B6E",
+            "fillColor": "#B02B6E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tegucigalpa",
@@ -897,7 +1341,13 @@
         "Currency:": "Honduran lempira (HNL)",
         "Famous landmark:": null,
         "Known for:": "Capital of Honduras",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#470CEF",
+            "fillColor": "#470CEF",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Budapest",
@@ -909,7 +1359,13 @@
         "Currency:": "Hungarian forint (HUF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Hungary",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3B57F0",
+            "fillColor": "#3B57F0",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Reykjavik",
@@ -921,7 +1377,13 @@
         "Currency:": "Icelandic króna (ISK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Iceland",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#38AA28",
+            "fillColor": "#38AA28",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "New Delhi",
@@ -933,7 +1395,13 @@
         "Currency:": "Indian rupee (INR)",
         "Famous landmark:": null,
         "Known for:": "Capital of India",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E2F861",
+            "fillColor": "#E2F861",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Jakarta",
@@ -945,7 +1413,13 @@
         "Currency:": "Indonesian rupiah (IDR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Indonesia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#FF39C6",
+            "fillColor": "#FF39C6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tehran",
@@ -957,7 +1431,13 @@
         "Currency:": "Iranian rial (IRR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Iran",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DA6207",
+            "fillColor": "#DA6207",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Baghdad",
@@ -969,7 +1449,13 @@
         "Currency:": "Iraqi dinar (IQD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Iraq",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#7E272B",
+            "fillColor": "#7E272B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dublin",
@@ -981,7 +1467,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Ireland",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3E11D7",
+            "fillColor": "#3E11D7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Jerusalem",
@@ -993,7 +1485,13 @@
         "Currency:": "Israeli new shekel (ILS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Israel",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C286BA",
+            "fillColor": "#C286BA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Rome",
@@ -1005,7 +1503,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Colosseum",
         "Known for:": "Ancient Roman history, fountains, pasta, and architecture",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6AEFF7",
+            "fillColor": "#6AEFF7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Yamoussoukro",
@@ -1017,7 +1521,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Ivory Coast",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#1CC94E",
+            "fillColor": "#1CC94E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kingston",
@@ -1029,7 +1539,13 @@
         "Currency:": "Jamaican dollar (JMD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Jamaica",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CD2F81",
+            "fillColor": "#CD2F81",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tokyo",
@@ -1041,7 +1557,13 @@
         "Currency:": "Japanese yen (JPY)",
         "Famous landmark:": "Tokyo Skytree",
         "Known for:": "Technology, anime, fashion, food, and nightlife",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#24F12A",
+            "fillColor": "#24F12A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Amman",
@@ -1053,7 +1575,13 @@
         "Currency:": "Jordanian dinar (JOD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Jordan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CF964D",
+            "fillColor": "#CF964D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Astana",
@@ -1065,7 +1593,13 @@
         "Currency:": "Kazakhstani tenge (KZT)",
         "Famous landmark:": null,
         "Known for:": "Capital of Kazakhstan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3AA18D",
+            "fillColor": "#3AA18D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Nairobi",
@@ -1077,7 +1611,13 @@
         "Currency:": "Kenyan shilling (KES)",
         "Famous landmark:": null,
         "Known for:": "Capital of Kenya",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#1B1432",
+            "fillColor": "#1B1432",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "South Tarawa",
@@ -1089,7 +1629,13 @@
         "Currency:": "Australian dollar (AUD), Kiribati dollar (KID)",
         "Famous landmark:": null,
         "Known for:": "Capital of Kiribati",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#ADE901",
+            "fillColor": "#ADE901",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kuwait City",
@@ -1101,7 +1647,13 @@
         "Currency:": "Kuwaiti dinar (KWD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Kuwait",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#60ADF6",
+            "fillColor": "#60ADF6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bishkek",
@@ -1113,7 +1665,13 @@
         "Currency:": "Kyrgyzstani som (KGS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Kyrgyzstan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#D9B944",
+            "fillColor": "#D9B944",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Vientiane",
@@ -1125,7 +1683,13 @@
         "Currency:": "Lao kip (LAK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Laos",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#ADF23B",
+            "fillColor": "#ADF23B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Riga",
@@ -1137,7 +1701,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Latvia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A71A05",
+            "fillColor": "#A71A05",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Beirut",
@@ -1149,7 +1719,13 @@
         "Currency:": "Lebanese pound (LBP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Lebanon",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#290FE2",
+            "fillColor": "#290FE2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Maseru",
@@ -1161,7 +1737,13 @@
         "Currency:": "Lesotho loti (LSL), South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Lesotho",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F976DA",
+            "fillColor": "#F976DA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Monrovia",
@@ -1173,7 +1755,13 @@
         "Currency:": "Liberian dollar (LRD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Liberia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#18798A",
+            "fillColor": "#18798A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tripoli",
@@ -1185,7 +1773,13 @@
         "Currency:": "Libyan dinar (LYD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Libya",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3E4160",
+            "fillColor": "#3E4160",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Vaduz",
@@ -1197,7 +1791,13 @@
         "Currency:": "Swiss franc (CHF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Liechtenstein",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#771543",
+            "fillColor": "#771543",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Vilnius",
@@ -1209,7 +1809,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Lithuania",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8612F7",
+            "fillColor": "#8612F7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Luxembourg",
@@ -1221,7 +1827,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Luxembourg",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F37121",
+            "fillColor": "#F37121",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Antananarivo",
@@ -1233,7 +1845,13 @@
         "Currency:": "Malagasy ariary (MGA)",
         "Famous landmark:": null,
         "Known for:": "Capital of Madagascar",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#5A8713",
+            "fillColor": "#5A8713",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lilongwe",
@@ -1245,7 +1863,13 @@
         "Currency:": "Malawian kwacha (MWK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Malawi",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#4B37AD",
+            "fillColor": "#4B37AD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kuala Lumpur",
@@ -1257,7 +1881,13 @@
         "Currency:": "Malaysian ringgit (MYR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Malaysia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DF4FEE",
+            "fillColor": "#DF4FEE",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Malé",
@@ -1269,7 +1899,13 @@
         "Currency:": "Maldivian rufiyaa (MVR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Maldives",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8CE383",
+            "fillColor": "#8CE383",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bamako",
@@ -1281,7 +1917,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Mali",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A3A099",
+            "fillColor": "#A3A099",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Valletta",
@@ -1293,7 +1935,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Malta",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BF4F9A",
+            "fillColor": "#BF4F9A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Majuro",
@@ -1305,7 +1953,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Marshall Islands",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#806E53",
+            "fillColor": "#806E53",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Nouakchott",
@@ -1317,7 +1971,13 @@
         "Currency:": "Mauritanian ouguiya (MRU)",
         "Famous landmark:": null,
         "Known for:": "Capital of Mauritania",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CFD572",
+            "fillColor": "#CFD572",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Port Louis",
@@ -1329,7 +1989,13 @@
         "Currency:": "Mauritian rupee (MUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Mauritius",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C20D25",
+            "fillColor": "#C20D25",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Mexico City",
@@ -1341,7 +2007,13 @@
         "Currency:": "Mexican peso (MXN)",
         "Famous landmark:": "Palacio de Bellas Artes",
         "Known for:": "Aztec history, museums, street food, and colorful neighborhoods",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#00E8FB",
+            "fillColor": "#00E8FB",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Palikir",
@@ -1353,7 +2025,13 @@
         "Currency:": "",
         "Famous landmark:": null,
         "Known for:": "Capital of Micronesia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3E0E50",
+            "fillColor": "#3E0E50",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Chișinău",
@@ -1365,7 +2043,13 @@
         "Currency:": "Moldovan leu (MDL)",
         "Famous landmark:": null,
         "Known for:": "Capital of Moldova",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#62762E",
+            "fillColor": "#62762E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Monaco",
@@ -1377,7 +2061,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Monaco",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B22B3E",
+            "fillColor": "#B22B3E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ulaanbaatar",
@@ -1389,7 +2079,13 @@
         "Currency:": "Mongolian tögrög (MNT)",
         "Famous landmark:": null,
         "Known for:": "Capital of Mongolia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3A0283",
+            "fillColor": "#3A0283",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Podgorica",
@@ -1401,7 +2097,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Montenegro",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B1858D",
+            "fillColor": "#B1858D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Rabat",
@@ -1413,7 +2115,13 @@
         "Currency:": "Moroccan dirham (MAD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Morocco",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8AE599",
+            "fillColor": "#8AE599",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Maputo",
@@ -1425,7 +2133,13 @@
         "Currency:": "Mozambican metical (MZN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Mozambique",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#4341D3",
+            "fillColor": "#4341D3",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Naypyidaw",
@@ -1437,7 +2151,13 @@
         "Currency:": "Burmese kyat (MMK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Myanmar",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#691AE4",
+            "fillColor": "#691AE4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Windhoek",
@@ -1449,7 +2169,13 @@
         "Currency:": "Namibian dollar (NAD), South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Namibia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9D875A",
+            "fillColor": "#9D875A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Yaren",
@@ -1461,7 +2187,13 @@
         "Currency:": "Australian dollar (AUD)",
         "Famous landmark:": null,
         "Known for:": "Seat of government of Nauru, which has no official capital",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#66457C",
+            "fillColor": "#66457C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kathmandu",
@@ -1473,7 +2205,13 @@
         "Currency:": "Nepalese rupee (NPR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Nepal",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#4C968E",
+            "fillColor": "#4C968E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Amsterdam",
@@ -1485,7 +2223,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Rijksmuseum",
         "Known for:": "Canals, bicycles, art museums, and narrow houses",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E0CEE8",
+            "fillColor": "#E0CEE8",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Wellington",
@@ -1497,7 +2241,13 @@
         "Currency:": "New Zealand dollar (NZD)",
         "Famous landmark:": null,
         "Known for:": "Capital of New Zealand",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#39D8DA",
+            "fillColor": "#39D8DA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Managua",
@@ -1509,7 +2259,13 @@
         "Currency:": "Nicaraguan córdoba (NIO)",
         "Famous landmark:": null,
         "Known for:": "Capital of Nicaragua",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#43AF81",
+            "fillColor": "#43AF81",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Niamey",
@@ -1521,7 +2277,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Niger",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A3F0B5",
+            "fillColor": "#A3F0B5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Abuja",
@@ -1533,7 +2295,13 @@
         "Currency:": "Nigerian naira (NGN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Nigeria",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B4CD80",
+            "fillColor": "#B4CD80",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Pyongyang",
@@ -1545,7 +2313,13 @@
         "Currency:": "North Korean won (KPW)",
         "Famous landmark:": null,
         "Known for:": "Capital of North Korea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BA8528",
+            "fillColor": "#BA8528",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Skopje",
@@ -1557,7 +2331,13 @@
         "Currency:": "denar (MKD)",
         "Famous landmark:": null,
         "Known for:": "Capital of North Macedonia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#19FB9C",
+            "fillColor": "#19FB9C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Oslo",
@@ -1569,7 +2349,13 @@
         "Currency:": "Norwegian krone (NOK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Norway",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#EA1E8D",
+            "fillColor": "#EA1E8D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Muscat",
@@ -1581,7 +2367,13 @@
         "Currency:": "Omani rial (OMR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Oman",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#65A443",
+            "fillColor": "#65A443",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Islamabad",
@@ -1593,7 +2385,13 @@
         "Currency:": "Pakistani rupee (PKR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Pakistan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#41B1C3",
+            "fillColor": "#41B1C3",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ngerulmud",
@@ -1605,7 +2403,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Palau",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#45B6DA",
+            "fillColor": "#45B6DA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "East Jerusalem",
@@ -1617,7 +2421,13 @@
         "Currency:": "Egyptian pound (EGP), Israeli new shekel (ILS), Jordanian dinar (JOD)",
         "Famous landmark:": null,
         "Known for:": "Claimed capital of Palestine",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#81DD86",
+            "fillColor": "#81DD86",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ramallah",
@@ -1629,7 +2439,13 @@
         "Currency:": "Egyptian pound (EGP), Israeli new shekel (ILS), Jordanian dinar (JOD)",
         "Famous landmark:": null,
         "Known for:": "Administrative seat of Palestine",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CA1CF4",
+            "fillColor": "#CA1CF4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Panama City",
@@ -1641,7 +2457,13 @@
         "Currency:": "Panamanian balboa (PAB), United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Panama",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A7009E",
+            "fillColor": "#A7009E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Port Moresby",
@@ -1653,7 +2475,13 @@
         "Currency:": "Papua New Guinean kina (PGK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Papua New Guinea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9769CF",
+            "fillColor": "#9769CF",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Asunción",
@@ -1665,7 +2493,13 @@
         "Currency:": "Paraguayan guaraní (PYG)",
         "Famous landmark:": null,
         "Known for:": "Capital of Paraguay",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E2C948",
+            "fillColor": "#E2C948",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lima",
@@ -1677,7 +2511,13 @@
         "Currency:": "Peruvian sol (PEN)",
         "Famous landmark:": null,
         "Known for:": "Capital of Peru",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#EF320E",
+            "fillColor": "#EF320E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Manila",
@@ -1689,7 +2529,13 @@
         "Currency:": "Philippine peso (PHP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Philippines",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F04047",
+            "fillColor": "#F04047",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Warsaw",
@@ -1701,7 +2547,13 @@
         "Currency:": "Polish złoty (PLN)",
         "Famous landmark:": "Palace of Culture and Science",
         "Known for:": "Its rebuilt Old Town, history, and Chopin music",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B35AAB",
+            "fillColor": "#B35AAB",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lisbon",
@@ -1713,7 +2565,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Portugal",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#25A751",
+            "fillColor": "#25A751",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Doha",
@@ -1725,7 +2583,13 @@
         "Currency:": "Qatari riyal (QAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Qatar",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#46D670",
+            "fillColor": "#46D670",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bucharest",
@@ -1737,7 +2601,13 @@
         "Currency:": "Romanian leu (RON)",
         "Famous landmark:": null,
         "Known for:": "Capital of Romania",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F7D706",
+            "fillColor": "#F7D706",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Moscow",
@@ -1749,7 +2619,13 @@
         "Currency:": "Russian ruble (RUB)",
         "Famous landmark:": null,
         "Known for:": "Capital of Russia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A95B77",
+            "fillColor": "#A95B77",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kigali",
@@ -1761,7 +2637,13 @@
         "Currency:": "Rwandan franc (RWF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Rwanda",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A4681F",
+            "fillColor": "#A4681F",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Basseterre",
@@ -1773,7 +2655,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Saint Kitts and Nevis",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#EF5C95",
+            "fillColor": "#EF5C95",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Castries",
@@ -1785,7 +2673,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Saint Lucia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#81E2CD",
+            "fillColor": "#81E2CD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kingstown",
@@ -1797,7 +2691,13 @@
         "Currency:": "Eastern Caribbean dollar (XCD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Saint Vincent and the Grenadines",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E0CDB2",
+            "fillColor": "#E0CDB2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Apia",
@@ -1809,7 +2709,13 @@
         "Currency:": "Samoan tālā (WST)",
         "Famous landmark:": null,
         "Known for:": "Capital of Samoa",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6D035A",
+            "fillColor": "#6D035A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "City of San Marino",
@@ -1821,7 +2727,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of San Marino",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E7A4A5",
+            "fillColor": "#E7A4A5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "São Tomé",
@@ -1833,7 +2745,13 @@
         "Currency:": "São Tomé and Príncipe dobra (STN)",
         "Famous landmark:": null,
         "Known for:": "Capital of São Tomé and Príncipe",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#27AD21",
+            "fillColor": "#27AD21",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Riyadh",
@@ -1845,7 +2763,13 @@
         "Currency:": "Saudi riyal (SAR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Saudi Arabia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6698D6",
+            "fillColor": "#6698D6",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dakar",
@@ -1857,7 +2781,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Senegal",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DCE009",
+            "fillColor": "#DCE009",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Belgrade",
@@ -1869,7 +2799,13 @@
         "Currency:": "Serbian dinar (RSD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Serbia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#03BDFD",
+            "fillColor": "#03BDFD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Victoria",
@@ -1881,7 +2817,13 @@
         "Currency:": "Seychellois rupee (SCR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Seychelles",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#C67203",
+            "fillColor": "#C67203",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Freetown",
@@ -1893,7 +2835,13 @@
         "Currency:": "Sierra Leonean leone (SLE)",
         "Famous landmark:": null,
         "Known for:": "Capital of Sierra Leone",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B77F84",
+            "fillColor": "#B77F84",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Singapore",
@@ -1905,7 +2853,13 @@
         "Currency:": "Singapore dollar (SGD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Singapore",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#511127",
+            "fillColor": "#511127",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bratislava",
@@ -1917,7 +2871,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Slovakia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E423E5",
+            "fillColor": "#E423E5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ljubljana",
@@ -1929,7 +2889,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Slovenia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#93E0CC",
+            "fillColor": "#93E0CC",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Honiara",
@@ -1941,7 +2907,13 @@
         "Currency:": "Solomon Islands dollar (SBD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Solomon Islands",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3B0460",
+            "fillColor": "#3B0460",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Mogadishu",
@@ -1953,7 +2925,13 @@
         "Currency:": "Somali shilling (SOS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Somalia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#2C8599",
+            "fillColor": "#2C8599",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Pretoria",
@@ -1965,7 +2943,13 @@
         "Currency:": "South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Administrative capital of South Africa",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CDBAF9",
+            "fillColor": "#CDBAF9",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bloemfontein",
@@ -1977,7 +2961,13 @@
         "Currency:": "South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Judicial capital of South Africa",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#BAF15C",
+            "fillColor": "#BAF15C",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Cape Town",
@@ -1989,7 +2979,13 @@
         "Currency:": "South African rand (ZAR)",
         "Famous landmark:": null,
         "Known for:": "Legislative capital of South Africa",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6BEF89",
+            "fillColor": "#6BEF89",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Seoul",
@@ -2001,7 +2997,13 @@
         "Currency:": "South Korean won (KRW)",
         "Famous landmark:": null,
         "Known for:": "Capital of South Korea",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#4E9FE4",
+            "fillColor": "#4E9FE4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Juba",
@@ -2013,7 +3015,13 @@
         "Currency:": "South Sudanese pound (SSP)",
         "Famous landmark:": null,
         "Known for:": "Capital of South Sudan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8EBB4E",
+            "fillColor": "#8EBB4E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Madrid",
@@ -2025,7 +3033,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Royal Palace of Madrid",
         "Known for:": "Art museums, football, tapas, and nightlife",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#CD6EAA",
+            "fillColor": "#CD6EAA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sri Jayewardenepura Kotte",
@@ -2037,7 +3051,13 @@
         "Currency:": "Sri Lankan rupee (LKR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Sri Lanka",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3DD46A",
+            "fillColor": "#3DD46A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Colombo",
@@ -2049,7 +3069,13 @@
         "Currency:": "Sri Lankan rupee (LKR)",
         "Famous landmark:": null,
         "Known for:": "Commercial capital of Sri Lanka",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#63D866",
+            "fillColor": "#63D866",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Khartoum",
@@ -2061,7 +3087,13 @@
         "Currency:": "Sudanese pound (SDG)",
         "Famous landmark:": null,
         "Known for:": "Capital of Sudan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#00075A",
+            "fillColor": "#00075A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Paramaribo",
@@ -2073,7 +3105,13 @@
         "Currency:": "Surinamese dollar (SRD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Suriname",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#076500",
+            "fillColor": "#076500",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Stockholm",
@@ -2085,7 +3123,13 @@
         "Currency:": "Swedish krona (SEK)",
         "Famous landmark:": null,
         "Known for:": "Capital of Sweden",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#77B1D3",
+            "fillColor": "#77B1D3",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bern",
@@ -2097,7 +3141,13 @@
         "Currency:": "Swiss franc (CHF)",
         "Famous landmark:": null,
         "Known for:": "Federal city and seat of government of Switzerland",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8133A2",
+            "fillColor": "#8133A2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Damascus",
@@ -2109,7 +3159,13 @@
         "Currency:": "Syrian pound (SYP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Syria",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9576BA",
+            "fillColor": "#9576BA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dushanbe",
@@ -2121,7 +3177,13 @@
         "Currency:": "Tajikistani somoni (TJS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Tajikistan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#3C069D",
+            "fillColor": "#3C069D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dodoma",
@@ -2133,7 +3195,13 @@
         "Currency:": "Tanzanian shilling (TZS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Tanzania",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#43C18E",
+            "fillColor": "#43C18E",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bangkok",
@@ -2145,7 +3213,13 @@
         "Currency:": "Thai baht (THB)",
         "Famous landmark:": null,
         "Known for:": "Capital of Thailand",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#52DAA8",
+            "fillColor": "#52DAA8",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dili",
@@ -2157,7 +3231,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Timor-Leste",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9FDAD2",
+            "fillColor": "#9FDAD2",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lomé",
@@ -2169,7 +3249,13 @@
         "Currency:": "West African CFA franc (XOF)",
         "Famous landmark:": null,
         "Known for:": "Capital of Togo",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#D90E8D",
+            "fillColor": "#D90E8D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Nuku'alofa",
@@ -2181,7 +3267,13 @@
         "Currency:": "Tongan paʻanga (TOP)",
         "Famous landmark:": null,
         "Known for:": "Capital of Tonga",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E9B2C7",
+            "fillColor": "#E9B2C7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Port of Spain",
@@ -2193,7 +3285,13 @@
         "Currency:": "Trinidad and Tobago dollar (TTD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Trinidad and Tobago",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#68D033",
+            "fillColor": "#68D033",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tunis",
@@ -2205,7 +3303,13 @@
         "Currency:": "Tunisian dinar (TND)",
         "Famous landmark:": null,
         "Known for:": "Capital of Tunisia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#A90133",
+            "fillColor": "#A90133",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ankara",
@@ -2217,7 +3321,13 @@
         "Currency:": "Turkish lira (TRY)",
         "Famous landmark:": null,
         "Known for:": "Capital of Türkiye",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8E19BA",
+            "fillColor": "#8E19BA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Ashgabat",
@@ -2229,7 +3339,13 @@
         "Currency:": "Turkmenistan manat (TMT)",
         "Famous landmark:": null,
         "Known for:": "Capital of Turkmenistan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#9F9F4F",
+            "fillColor": "#9F9F4F",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Funafuti",
@@ -2241,7 +3357,13 @@
         "Currency:": "Australian dollar (AUD), Tuvaluan dollar (TVD)",
         "Famous landmark:": null,
         "Known for:": "Capital of Tuvalu",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#604746",
+            "fillColor": "#604746",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kampala",
@@ -2253,7 +3375,13 @@
         "Currency:": "Ugandan shilling (UGX)",
         "Famous landmark:": null,
         "Known for:": "Capital of Uganda",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#F61DA5",
+            "fillColor": "#F61DA5",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kyiv",
@@ -2265,7 +3393,13 @@
         "Currency:": "Ukrainian hryvnia (UAH)",
         "Famous landmark:": "Saint Sophia Cathedral",
         "Known for:": "Historic churches, golden domes, and the Dnipro River",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#DEDA24",
+            "fillColor": "#DEDA24",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Abu Dhabi",
@@ -2277,7 +3411,13 @@
         "Currency:": "United Arab Emirates dirham (AED)",
         "Famous landmark:": null,
         "Known for:": "Capital of United Arab Emirates",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#082E92",
+            "fillColor": "#082E92",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "London",
@@ -2289,7 +3429,13 @@
         "Currency:": "British pound (GBP)",
         "Famous landmark:": "Big Ben",
         "Known for:": "Royal history, museums, theatre, and red buses",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#78D526",
+            "fillColor": "#78D526",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Washington D.C.",
@@ -2301,7 +3447,13 @@
         "Currency:": "United States dollar (USD)",
         "Famous landmark:": null,
         "Known for:": "Capital of United States",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#8C9B14",
+            "fillColor": "#8C9B14",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Montevideo",
@@ -2313,7 +3465,13 @@
         "Currency:": "Uruguayan peso (UYU)",
         "Famous landmark:": null,
         "Known for:": "Capital of Uruguay",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#EFE8A4",
+            "fillColor": "#EFE8A4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Tashkent",
@@ -2325,7 +3483,13 @@
         "Currency:": "Uzbekistani soʻm (UZS)",
         "Famous landmark:": null,
         "Known for:": "Capital of Uzbekistan",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#E2F162",
+            "fillColor": "#E2F162",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Port Vila",
@@ -2337,7 +3501,13 @@
         "Currency:": "Vanuatu vatu (VUV)",
         "Famous landmark:": null,
         "Known for:": "Capital of Vanuatu",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#768362",
+            "fillColor": "#768362",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Vatican City",
@@ -2349,7 +3519,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": null,
         "Known for:": "Capital of Vatican City",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#FDB889",
+            "fillColor": "#FDB889",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Caracas",
@@ -2361,7 +3537,13 @@
         "Currency:": "Venezuelan bolívar soberano (VES)",
         "Famous landmark:": null,
         "Known for:": "Capital of Venezuela",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#B48091",
+            "fillColor": "#B48091",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Hanoi",
@@ -2373,7 +3555,13 @@
         "Currency:": "Vietnamese đồng (VND)",
         "Famous landmark:": null,
         "Known for:": "Capital of Vietnam",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#682A2A",
+            "fillColor": "#682A2A",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sana'a",
@@ -2385,7 +3573,13 @@
         "Currency:": "Yemeni rial (YER)",
         "Famous landmark:": null,
         "Known for:": "Capital of Yemen",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#6E7AFF",
+            "fillColor": "#6E7AFF",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Lusaka",
@@ -2397,7 +3591,13 @@
         "Currency:": "Zambian kwacha (ZMW)",
         "Famous landmark:": null,
         "Known for:": "Capital of Zambia",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#74A8B4",
+            "fillColor": "#74A8B4",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Harare",
@@ -2409,7 +3609,13 @@
         "Currency:": "Botswana pula (BWP), Chinese yuan (CNY), Euro (EUR), British pound (GBP), Indian rupee (INR), Japanese yen (JPY), United States dollar (USD), South African rand (ZAR), Zimbabwean bonds (ZWB)",
         "Famous landmark:": null,
         "Known for:": "Capital of Zimbabwe",
-        "isCapital": true
+        "isCapital": true,
+        "circle": {
+            "color": "#66685D",
+            "fillColor": "#66685D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Glasgow",
@@ -2421,7 +3627,13 @@
         "Currency:": "Pound sterling (GBP)",
         "Famous landmark:": "Glasgow Cathedral",
         "Known for:": "Live music, art, architecture, and football",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#6ADA41",
+            "fillColor": "#6ADA41",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Kraków",
@@ -2433,7 +3645,13 @@
         "Currency:": "Polish zloty (PLN)",
         "Famous landmark:": "Wawel Castle",
         "Known for:": "Medieval architecture, its Main Market Square, and university life",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#01A76D",
+            "fillColor": "#01A76D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "New York City",
@@ -2445,7 +3663,13 @@
         "Currency:": "US dollar (USD)",
         "Famous landmark:": "Statue of Liberty",
         "Known for:": "Skyscrapers, Broadway, diverse food, and Times Square",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#4102EA",
+            "fillColor": "#4102EA",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Sydney",
@@ -2457,7 +3681,13 @@
         "Currency:": "Australian dollar (AUD)",
         "Famous landmark:": "Sydney Opera House",
         "Known for:": "Its harbour, beaches, surfing, and outdoor lifestyle",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#2F5287",
+            "fillColor": "#2F5287",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Toronto",
@@ -2469,7 +3699,13 @@
         "Currency:": "Canadian dollar (CAD)",
         "Famous landmark:": "CN Tower",
         "Known for:": "Cultural diversity, film festivals, and Lake Ontario",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#78802B",
+            "fillColor": "#78802B",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Mumbai",
@@ -2481,7 +3717,13 @@
         "Currency:": "Indian rupee (INR)",
         "Famous landmark:": "Gateway of India",
         "Known for:": "Bollywood, finance, street food, and busy markets",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#33D9C7",
+            "fillColor": "#33D9C7",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Rio de Janeiro",
@@ -2493,7 +3735,13 @@
         "Currency:": "Brazilian real (BRL)",
         "Famous landmark:": "Christ the Redeemer",
         "Known for:": "Carnival, samba, beaches, and mountain views",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#8AA481",
+            "fillColor": "#8AA481",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Istanbul",
@@ -2505,7 +3753,13 @@
         "Currency:": "Turkish lira (TRY)",
         "Famous landmark:": "Hagia Sophia",
         "Known for:": "Ottoman history, bazaars, and connecting Europe with Asia",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#9EAC15",
+            "fillColor": "#9EAC15",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Barcelona",
@@ -2517,7 +3771,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Sagrada Familia",
         "Known for:": "Gaudi architecture, beaches, and food",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#538961",
+            "fillColor": "#538961",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Venice",
@@ -2529,7 +3789,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Saint Mark's Basilica",
         "Known for:": "Canals, gondolas, and historic architecture",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#774AC8",
+            "fillColor": "#774AC8",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Bruges",
@@ -2541,7 +3807,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Belfry of Bruges",
         "Known for:": "Medieval streets, canals, and Belgian chocolate",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#C74A73",
+            "fillColor": "#C74A73",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Edinburgh",
@@ -2553,7 +3825,13 @@
         "Currency:": "Pound sterling (GBP)",
         "Famous landmark:": "Edinburgh Castle",
         "Known for:": "Festivals, historic streets, and hilltop views",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#59110D",
+            "fillColor": "#59110D",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Porto",
@@ -2565,7 +3843,13 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Dom Luis I Bridge",
         "Known for:": "Riverside scenery, tiled buildings, and port wine",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#23FE67",
+            "fillColor": "#23FE67",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Marrakech",
@@ -2577,7 +3861,13 @@
         "Currency:": "Moroccan dirham (MAD)",
         "Famous landmark:": "Koutoubia Mosque",
         "Known for:": "Souks, gardens, and traditional architecture",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#9B52FD",
+            "fillColor": "#9B52FD",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Dubai",
@@ -2589,7 +3879,13 @@
         "Currency:": "UAE dirham (AED)",
         "Famous landmark:": "Burj Khalifa",
         "Known for:": "Modern architecture, shopping, and beaches",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "color": "#2A9275",
+            "fillColor": "#2A9275",
+            "fillOpacity": 0.4,
+            "radius": 50000
+        }
     },
     {
         "name": "Florence",
@@ -2601,6 +3897,18 @@
         "Currency:": "Euro (EUR)",
         "Famous landmark:": "Florence Cathedral",
         "Known for:": "Renaissance art, architecture, and Tuscan food",
-        "isCapital": false
+        "isCapital": false,
+        "circle": {
+            "name": "jeff",
+            "color": "#45A677",
+            "fillColor": "#45A677",
+            "fillOpacity": 0.4,
+            "radius": 50000
+
+        }
+    
     }
 ]
+
+
+
